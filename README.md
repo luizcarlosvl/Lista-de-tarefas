@@ -6,4 +6,4 @@ Permite de forma simples o controle das tarefas do dia a dia.
 
 Acesse: https://minha-lista-de-tarefas.herokuapp.com/
 
-* App feito com React
+* App criado com React
